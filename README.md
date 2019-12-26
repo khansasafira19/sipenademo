@@ -16,3 +16,6 @@ This website is the study case I used for my book "Developing Website with Yii2 
 7. Import sipantas.sql to the database you created in step 6.
 8. If you have a username other than "root" for your database, make changes in database config, in config\db.php and config\dblogin.php
 9. Access the website using URL localhost/sipenademo/
+
+# CSS Folder:
+The CSS files on sipena/css folder are my personal modification for another yii2 website I create. It's not much, but it's quite better-looking than the default CSS provided by Yii. You may need to modify it to make it work perfectly on your own website.
