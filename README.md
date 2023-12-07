@@ -1,3 +1,6 @@
+# IMPORTANT NEWS
+I have an upgraded repo for this in [here](https://github.com/khansasafira19/sk-phenomena-recording-system). Enjoy! Thanks for stopping by. :)
+
 # SIPENA
 
 This is a complete repository for a website I developed in Yii2 Framework and MySQL Database.
